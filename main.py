@@ -555,7 +555,7 @@ def executar_se_18_30():
     fuso_horario_brasil = pytz.timezone("America/Sao_Paulo")
     horario_atual = datetime.now(fuso_horario_brasil)
     
-    if horario_atual.hour >= 18 and horario_atual.minute >= 20 and horario_atual.minute <= 35:
+    if horario_atual.hour == 18 and horario_atual.minute >= 20 and horario_atual.minute <= 35:
         enviar_mensagem()
     else:
         print("Ainda não são 18:30 no Brasil.")

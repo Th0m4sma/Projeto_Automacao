@@ -35,7 +35,7 @@ O projeto consiste em um programa responsável por enviar, via WhatsApp, **resum
 
 ## Resultados:
 
-Realizado toda a implementação, e a configuração das tecnologias temos o seuginte resultado no Whatsapp todos os dias após as 18:30🕥:
+Após realizar toda a implementação e configurar as tecnologias, o programa apresenta o seguinte resultado no WhatsApp diariamente, a partir das 18h30 🕡:
 
-![Descrição da imagem](Resultados/Wpp1.png)
-![Descrição da imagem](Resultados/Wpp2.png)
+![IEnvio dos valores de indíces relacionado as bolsas de valores ao redor do mundo](Resultados/Wpp1.png)
+![Envio das cotações do Bitcoin e do dolar](Resultados/Wpp2.png)

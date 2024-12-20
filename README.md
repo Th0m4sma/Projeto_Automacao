@@ -38,3 +38,4 @@ O projeto consiste em um programa responsável por enviar, via WhatsApp, **resum
 Realizado toda a implementação, e a configuração das tecnologias temos o seuginte resultado no Whatsapp todos os dias após as 18:30🕥:
 
 ![Descrição da imagem](Resultados/Wpp1.png)
+![Descrição da imagem](Resultados/Wpp2.png)

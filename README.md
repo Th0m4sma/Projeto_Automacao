@@ -37,9 +37,9 @@ O projeto consiste em um programa responsável por enviar, via WhatsApp, **resum
 
 Após realizar toda a implementação e configurar as tecnologias, o programa apresenta o seguinte resultado no WhatsApp diariamente, a partir das 18h30 🕡:
 
-![Envio dos valores de indíces relacionado as bolsas de valores ao redor do mundo](Resultados/Wpp1.png)
-Envio dos valores de indíces relacionado as bolsas de valores ao redor do mundo.
+![Envio dos valores de índices relacionado às bolsas de valores ao redor do mundo](Resultados/Wpp1.png)  
+**Envio dos valores de índices relacionado às bolsas de valores ao redor do mundo.**
 
+![Envio das cotações do Bitcoin e do dólar](Resultados/Wpp2.png)  
+**Envio das cotações do Bitcoin e do dólar, além de algumas notícias.**
 
-![Envio das cotações do Bitcoin e do dolar](Resultados/Wpp2.png)
-Envio das cotações do Bitcoin e do dolar, além de algumas notícias.
